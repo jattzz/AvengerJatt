@@ -5,7 +5,7 @@ import algorithmInfos from "../data/algorithmInfos";
 
 function SortingChart() {
 
-    const teamMembers = ["Jatin Kumar (21BCS10080)"];
+    const teamMembers = ["Armaan Jaswal (22BCS11756)"];
     const { sortingState, generateSortingArray, startVisualizing, changeSortingSpeed, changeAlgorithm } = useContext(SortingContext);
 
     useEffect(() => {
